@@ -1,0 +1,22 @@
+.big-box{
+    border: 2px solid indigo;
+    padding: 30px;
+    display: flex;
+
+}
+
+.box-1{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    flex: 1
+}
+
+.box-2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 10px;
+    flex: 1
+    
+}
